@@ -2,6 +2,10 @@
 It's a GRIP@TSF 
 
 task 1
+With Python 
+
+How to use it ?
+With Jupyter 
 
 Build model to predicted a Score to student
 

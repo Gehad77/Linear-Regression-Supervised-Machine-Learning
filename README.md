@@ -1,12 +1,10 @@
 # Score
-It's a GRIP@TSF 
+** Project done during the Data Science & Analytics Internship at The Sparks Foundation **
 
-task 1,
-With Python 
+Task 1 - Linear Regression - Supervised Machine Learning
+Task: To predict the percentage of marks that a student is expected to score based upon the number of hours they studied.
 
-How to use it ?
--- With Jupyter 
+Libraries Used: Scikit Learn, Pandas, Numpy.
 
-Build model to predicted a Score to student
-
--- And get What will be predicted score if a student studies for 9.25 hrs/ day?
+Youtube : https://youtu.be/6vkRKr0MuLI
+BY : Jehad Magdy 
